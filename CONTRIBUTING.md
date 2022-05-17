@@ -9,6 +9,6 @@ Contributing requests are always welcome. Feel free to make issues or mail me to
 - Update README.md and docs with new information if it's necessary.
 - Create a pull request and describe your feature.
 
-## [Code of Conduct](https://github.com/bakeryjs/router/blob/main/CODE_OF_CONDUCT.md)
+## [Code of Conduct](https://github.com/bakeryjs/lambda/blob/main/CODE_OF_CONDUCT.md)
 
 After that, the request will be reviewed and discussed.
