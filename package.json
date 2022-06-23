@@ -1,9 +1,13 @@
 {
-  "name": "@bakerjs/lambda",
+  "name": "@bakeryjs/lambda",
   "version": "1.0.0",
   "description": "FaaS Application Server for Node.js",
   "main": "lambda.js",
+  "bin": {
+    "lambda": "./bin/cli.js"
+  },
   "directories": {
+    "lib": "lib",
     "src": "src",
     "test": "test"
   },
@@ -29,6 +33,8 @@
     "faas"
   ],
   "dependencies": {
+    "@bakeryjs/logger": "^1.0.0-beta.0",
+    "@bakeryjs/router": "^1.0.1",
     "chai": "^4.3.4",
     "mocha": "^8.1.3"
   },
